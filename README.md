@@ -1,6 +1,8 @@
 # Tesla Stock Prediction Project
+View my full process of this project on my portfolio website: [Here](https://hoangphipv.id.vn/project5.html)
 
-Welcome to the Tesla Stock Prediction project! In this project, we focus on predicting Tesla's stock prices using time-series data. We employ a combination of Python programming, Machine Learning, and Deep Learning techniques including LSTM and RNN.
+
+Welcome to the Tesla Stock Prediction p roject! In this project, we focus on predicting Tesla's stock prices using time-series data. We employ a combination of Python programming, Machine Learning, and Deep Learning techniques including LSTM and RNN.
 
 ## Project Overview
 
